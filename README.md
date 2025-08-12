@@ -1,6 +1,6 @@
 # AgentTesla-Reverse-Engineering-Report
 
-This 48 page report decuments the reverse engineering of Agent Tesla, a fairly complicated RAT (Remote Access Tool) malware. The report demonstrates how various tools and references were used to identify and reverse engineer Agent Tesla.
+This 48 page report documents the reverse engineering of Agent Tesla, a fairly complicated RAT (Remote Access Tool) malware. The report demonstrates how various tools and references were used to identify and reverse engineer Agent Tesla.
 
 Additionally, it serves to be informative to audiences that might be newer to reverse engineering. It is rich in text and images that serve to illustrate the reverse engineering process in detail, starting off from Basic Static and leading into Basic Dynamic analysis, and from there progressing to Advanced Static and Dynamic analysis.
 
